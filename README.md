@@ -11,4 +11,4 @@ I've been writing software since the late 90's and leading engineering teams sin
 - 👨‍🎓 I like to help mid-level engineers and managers level up their careers.
 - 📫 How to reach me: chris [@] chrisfree.com
 - ⚡ **Fun fact:** I was once reviewing a pull request that included a new bash script for clearing and syncing files across dev environments. When I ran it locally, it wiped my entire hard drive. Needless to say, the PR did not pass code review that day.
-- 🏎️ [NextGP](https://apps.apple.com/us/app/nextgp/id1638726743) is my tiny little Formula 1 app. It has nifty widgets that countdown to the next Grand Prix and tiny nuggets of information about each track. 
+- 🏎️ [NextGP](https://apps.apple.com/us/app/nextgp/id1638726743) is my Formula 1 companion app. It has nifty widgets that countdown to the next Grand Prix and tiny nuggets of information about each track. 
