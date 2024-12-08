@@ -6,7 +6,7 @@ The greater part of my career was spent building and running an [agency](https:/
 I've been writing software since the late 90's and leading engineering teams since 2008. I've written code for websites you've most certainly used. I believe in open source software, native apps over cross-platform frameworks, and in the power of empathetic leadership.
 
 - 🧱 I’m currently [building a native GeoJSON Editor in MacOS](https://bsky.app/profile/chrisfree.bsky.social/post/3lbnhpyoowc2t).
-- ✈️ I recently replicated [Flighty in SwiftUI]([url](https://github.com/chrisfree/flightySwiftUI)).
+- ✈️ I recently replicated [Flighty in SwiftUI](https://github.com/chrisfree/flightySwiftUI).
 - 🏎️ [NextGP](https://apps.apple.com/us/app/nextgp/id1638726743) is my Formula 1 app. 
 - 👨🏻‍💻 I'm a co-maintainer of the [Jolpica Formula 1 project]([url](https://github.com/jolpica/jolpica-f1))
 - 👨‍🎓 I like to help mid-level engineers and managers level up their careers.
