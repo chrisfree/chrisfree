@@ -7,7 +7,7 @@ I've been writing software since the late 90's and leading engineering teams sin
 
 - 🧱 I’m currently [building a native GeoJSON Editor in MacOS](https://bsky.app/profile/chrisfree.bsky.social/post/3lbnhpyoowc2t).
 - ✈️ I recently replicated [Flighty in SwiftUI](https://github.com/chrisfree/flightySwiftUI).
-- 🏎️ [NextGP](https://apps.apple.com/us/app/nextgp/id1638726743) is my Formula 1 app. 
+- 🏎️ [NextGP](https://nextgp.app) is my Formula 1 app. 
 - 👨🏻‍💻 I'm a co-maintainer of [Jolpica](https://github.com/jolpica/jolpica-f1), the open-source, Formula 1 historical data project.
 - 👨‍🎓 I like to help mid-level engineers and managers level up their careers.
 - 📫 How to reach me: chris [@] chrisfree.com
